@@ -1,0 +1,12 @@
+{
+    "success": true,
+    "asset": “PEPEKAWS”,
+    "asset_issuer_address": "13d9whJX43T12DUwpFHCE91Yrf8f1h5H62",
+    "asset_owner_address": "13d9whJX43T12DUwpFHCE91Yrf8f1h5H62",
+    "asset_supply": "100",
+    "asset_divisible": false,
+    "asset_locked": true,
+    "image": "https://i.imgur.com/XI5tIhp.png”,
+    "image_large": "https://i.imgur.com/V6B9IPf.png”,
+    "image_title": “PEPEKAWS”
+}
