@@ -20,13 +20,13 @@ TO MINT:
 
 7. The description is where the image data is loaded from:
  
-    a. Find the EXAMPLE.json in this repository
+      a. Find the EXAMPLE.json in this repository
     
-    b. Replace your example values with yours 
+      b. Replace your example values with yours 
     
-    c. Either submit to me or host it yourself 
+      c. Either submit to me or host it yourself 
     
-    d. Put the JSON link as the description
+      d. Put the JSON link as the description
     
 
 8. Hit "Create Token"
